@@ -7,7 +7,7 @@ title: Summer 2020 DREU Project Site
 {:toc}
 
 ## About Me
-I am a junior mathematics major at Oregon State University Honors College.
+I am a junior mathematics major at Oregon State University Honors College. I enjoy theoretical computer science and math problems, as well as spending time outdoors and crafting.
 
 ## About My Mentor
 
