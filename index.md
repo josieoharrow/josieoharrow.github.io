@@ -11,7 +11,7 @@ I am a junior mathematics major at Oregon State University Honors College.
 
 ## About My Mentor
 
-Mentor info goes here.
+Theresa Migler is a professor at CalPoly SLO. She works on graph theory projects and other theoretical computer science problems, and likes to go hiking. https://theresamigler.com/
 
 ## About My Project
 
