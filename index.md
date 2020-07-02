@@ -7,8 +7,7 @@ title: Summer 2020 DREU Project Site
 {:toc}
 
 ## About Me
-
-My info goes here.
+I am a junior mathematics major at Oregon State University Honors College.
 
 ## About My Mentor
 
