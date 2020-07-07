@@ -15,7 +15,7 @@ Theresa Migler is a professor at CalPoly SLO. She works on graph theory projects
 
 ## About My Project
 
-Project description goes here.
+This summer I am working with Dr. Migler and two students at CalPoly (Pranshul and Jonathan) to turn the original 21 NP-complete tree from Karp into a complete cycle, without using the assumption that SAT is NP-Complete. This involves reducing a lot of the problems into other ones.
 
 [My Final Report](files/finalreport.pdf)
 
